@@ -1,7 +1,6 @@
 {
     "name": "coderius/yii2-lightbox2-widget",
     "description": "Yii 2 lightbox2-widget",
-    "version": "1.0.0",
     "keywords": ["lightbox", "widget", "lightbox2", "yii2"],
     "type": "yii2-extension",
     "license": "MIT",
@@ -24,6 +23,11 @@
     "autoload": {
         "psr-4": {
             "coderius\\lightbox2\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
         }
     },
     "repositories": [

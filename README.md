@@ -12,13 +12,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require coderius/yii2-lightbox2-widget "*"
+php composer.phar require coderius/yii2-lightbox2-widget "@dev"
 ```
 
 or add
 
 ```json
-"coderius/yii2-lightbox2-widget" : "*"
+"coderius/yii2-lightbox2-widget" : "@dev"
 ```
 
 to the require section of your application's `composer.json` file.

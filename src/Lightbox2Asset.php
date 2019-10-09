@@ -32,8 +32,8 @@ class Lightbox2Asset extends AssetBundle
     {
         parent::init();
         
-        $this->js[] = YII_DEBUG ? 'js/lightbox.js' : 'lightbox.min.js';
-        $this->css[] = YII_DEBUG ? 'css/lightbox.css' : 'lightbox.min.css';
+        $this->js[] = 'js/lightbox.js';
+        $this->css[] = 'css/lightbox.css';
     }
     
 }

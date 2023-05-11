@@ -1,5 +1,5 @@
 {
-    "name": "coderius/yii2-lightbox2-widget",
+    "name": "crestoff/yii2-lightbox2-widget",
     "description": "Yii 2 lightbox2-widget",
     "keywords": ["lightbox", "widget", "lightbox2", "yii2"],
     "type": "yii2-extension",
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "coderius\\lightbox2\\": "src/"
+            "crestoff\\lightbox2\\": "src/"
         }
     },
     "extra": {

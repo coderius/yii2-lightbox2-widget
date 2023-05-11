@@ -3,7 +3,7 @@ Lightbox2 widget for Yii2
 The Lightbox2 widget is a customized lightbox script based on [Lightbox](https://lokeshdhakar.com/projects/lightbox2/). and 
 This widget used to overlay images on top of the current page. 
 
-![alt text](https://github.com/coderius/github-images/blob/master/pic1.png "Description goes here")
+![alt text](https://github.com/crestoff/github-images/blob/master/pic1.png "Description goes here")
 
 Installation
 ------------
@@ -12,13 +12,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require coderius/yii2-lightbox2-widget "@dev"
+php composer.phar require crestoff/yii2-lightbox2-widget "@dev"
 ```
 
 or add
 
 ```json
-"coderius/yii2-lightbox2-widget" : "@dev"
+"crestoff/yii2-lightbox2-widget" : "@dev"
 ```
 
 to the require section of your application's `composer.json` file.
@@ -28,9 +28,9 @@ Usage
 * In view:
 
 ```php
-use coderius\lightbox2\Lightbox2;
+use crestoff\lightbox2\Lightbox2;
 
-<?= coderius\lightbox2\Lightbox2::widget([
+<?= crestoff\lightbox2\Lightbox2::widget([
     'clientOptions' => [
         'resizeDuration' => 200,
         'wrapAround' => true,

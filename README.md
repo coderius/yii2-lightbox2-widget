@@ -3,8 +3,6 @@ Lightbox2 widget for Yii2
 The Lightbox2 widget is a customized lightbox script based on [Lightbox](https://lokeshdhakar.com/projects/lightbox2/). and 
 This widget used to overlay images on top of the current page. 
 
-![alt text](https://github.com/crestoff/github-images/blob/master/pic1.png "Description goes here")
-
 Installation
 ------------
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
@@ -59,6 +57,4 @@ to set group images, then put identic names to data-lightbox attribute for each 
 
 *Thumbnail picture, by clicking on which opens the widget is wrapped with a link
  
-
-
 Reference to plugin [github](https://github.com/lokesh/lightbox2/) repository that is used in this widget.

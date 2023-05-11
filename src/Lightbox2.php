@@ -7,7 +7,7 @@
  * @contacts sunrise4fun@gmail.com - Have suggestions, contact me :) 
  * @link https://github.com/coderius - My github
  */
-namespace coderius\lightbox2;
+namespace crestoff\lightbox2;
 
 use yii\base\Widget;
 use yii\helpers\Json;
